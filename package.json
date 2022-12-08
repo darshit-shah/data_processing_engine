@@ -1,0 +1,20 @@
+{
+  "name": "data_processing_engine",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshit-shah/data_processing_engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshit-shah/data_processing_engine/issues"
+  },
+  "homepage": "https://github.com/darshit-shah/data_processing_engine#readme"
+}
